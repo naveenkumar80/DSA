@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/navee/OneDrive/Desktop/DSA",
-      "program": "c:/Users/navee/OneDrive/Desktop/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/navee/OneDrive/Desktop/DSA/maths",
+      "program": "c:/Users/navee/OneDrive/Desktop/DSA/maths/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
