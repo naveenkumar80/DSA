@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveenkumar80/DSA/tree/master/0011-container-with-most-water) |
+| [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naveenkumar80/DSA/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
