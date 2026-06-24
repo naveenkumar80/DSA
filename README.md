@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/naveenkumar80/DSA/tree/master/0443-string-compression) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/naveenkumar80/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
