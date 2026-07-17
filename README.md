@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveenkumar80/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/naveenkumar80/DSA/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/naveenkumar80/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/naveenkumar80/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveenkumar80/DSA/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/naveenkumar80/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
