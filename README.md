@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0074-search-a-2d-matrix](https://github.com/naveenkumar80/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/naveenkumar80/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/naveenkumar80/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveenkumar80/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -70,10 +71,15 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenkumar80/DSA/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/naveenkumar80/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveenkumar80/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naveenkumar80/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveenkumar80/DSA/tree/master/0018-4sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/naveenkumar80/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
