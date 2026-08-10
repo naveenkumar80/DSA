@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0007-reverse-integer](https://github.com/naveenkumar80/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveenkumar80/DSA/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/naveenkumar80/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveenkumar80/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/naveenkumar80/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
