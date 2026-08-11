@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0018-4sum](https://github.com/naveenkumar80/DSA/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/naveenkumar80/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/naveenkumar80/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/naveenkumar80/DSA/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/naveenkumar80/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/naveenkumar80/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenkumar80/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/naveenkumar80/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/naveenkumar80/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
