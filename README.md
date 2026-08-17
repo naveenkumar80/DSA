@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/naveenkumar80/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/naveenkumar80/DSA/tree/master/0443-string-compression) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/naveenkumar80/DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/naveenkumar80/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0051-n-queens](https://github.com/naveenkumar80/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/naveenkumar80/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/naveenkumar80/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/naveenkumar80/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
