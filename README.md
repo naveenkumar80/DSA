@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/naveenkumar80/DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/naveenkumar80/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/naveenkumar80/DSA/tree/master/0443-string-compression) |
 ## Math
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naveenkumar80/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/naveenkumar80/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/naveenkumar80/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
